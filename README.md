@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning Frontend web development
 - 💞️ I’m looking for a Job 
-- 📫 How to reach me ... 
+- 📫 some of my small projects. 
 
 <!---
 Shubhi-782/Shubhi-782 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
